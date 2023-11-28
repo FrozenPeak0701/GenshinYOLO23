@@ -36,5 +36,5 @@ Acknowledgements:
 
 A special thanks to:
 
-- 竹林猫王 for helping with in-game screenshot collection
+- [PussInBamboos](https://github.com/PussInBamboos) aka 竹林猫王 for helping with in-game screenshot collection
 - [@DavidZhang14](https://github.com/DavidZhang14) for helping with the dataset annotations.
