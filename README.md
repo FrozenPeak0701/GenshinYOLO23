@@ -1,6 +1,8 @@
 # GenshinYOLO23
 YOLOv5s model finetuned on a dataset of Genshin Impact monster screenshots. This dataset contains annotations of 23 classes and a script to easily refactor the file structure for training with YOLOv5.
 
+![screenshot_20231124-233727_127](https://github.com/FrozenPeak0701/GenshinYOLO23/assets/73618481/9a6094e6-546d-40cd-ae3a-babc7c9d5b77)
+
 Here's my [model](https://drive.google.com/file/d/16NkunYLmxiSxuTbmzZ6GLgjemjcQz0fU/view?usp=sharing) and [dataset](https://drive.google.com/file/d/1RKqcAJU3Njud5zFuHd2_xngcwssSJSke/view?usp=sharing). 
 
 Please leave a star if you like it. Thank you!
